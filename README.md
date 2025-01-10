@@ -1,3 +1,6 @@
+
+
+<!DOCTYPE html>
   <!-- _
  | |
  | |_   _ _______ _ __  _ ____  __
@@ -8,9 +11,6 @@
     |___/       |______|_|
 
 If you can read this, you know how to press F12 ;-) -->
-
-
-<!DOCTYPE html>
 <html>
     <head></head>
     <link rel="stylesheet" href="app.css"/>
